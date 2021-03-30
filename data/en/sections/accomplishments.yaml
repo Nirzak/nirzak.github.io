@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Machine Learning
+  timeline: "January 2021 - March 2021"
+  organization:
+    name: Standford University through Coursera
+    url: https://www.coursera.org/learn/machine-learning/
+  courseOverview: "This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/27TZAXCJ9AW6"
+
+- name: Machine Learning Foundations - A Case Study Approach
+  timeline: "August 2020 - Dec 2020"
+  organization:
+    name: University of Washington through Coursera
+    url: https://www.coursera.org/learn/ml-foundations
+  courseOverview: "This course provides the basic fundamental knowledge about machine learning approach and different machine learning algorithms."
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/AHJYC5B7P8TH"
+
+- name: Introduction to Git and Github
+  timeline: "Ocotber 2020 - Jan 2021"
+  organization:
+    name: Google through Coursera
+    url: https://www.coursera.org/learn/introduction-git-github
+  courseOverview: "This course helps to clear basic concepts of git and how to use it. This course also covers basic to advance commands to maintain version controls for projects."
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/TGF2QDEWKQZ6"
+
+- name: Introduction to Cybersecurity
+  timeline: "Mar 2020 - May 2020"
+  organization:
+    name: Cisco
+    url: https://www.cisco.com
+  courseOverview: "This course helps to clear the fundamental concepts of cybersecurity. It also gives a detailed view of cybersecurity and vulnerability and the methods to fix them."
+  certificateURL: "https://www.youracclaim.com/badges/ccd189ae-39ec-4189-9293-c9ae3fba4fb3/"
+
+- name: Introduction to Data Structure and Algorithms
+  timeline: "Jan 2018 - Mar 2018"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: "This course helps to clear the concepts behind the fundamental data structure and algorithms. It's a beneficial course for beginners to get a headstart in algorithms and data structures."
+  certificateURL: "https://www.udemy.com/certificate/UC-19KGVL44"
+ 
+

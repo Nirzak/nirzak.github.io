@@ -1,0 +1,51 @@
+# section information
+section:
+  name: দক্ষতা
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/skills.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming and c++ stls. Mostly Used for contest programming and problem solving."
+
+- name: Java
+  logo: /images/sections/skills/java.svg
+  summary: "Know the fundamental to advance concepts of Java and Object Oriented programming. Also used JavaSwing Framework for GUI based application"
+  url: "https://java.com/"
+
+- name: Python
+  logo: /images/sections/skills/python.svg
+  summary: "Basic to advance knowledge of python and also worked with GUI based python library Tkiner for academic projects."
+  url: "https://python.org/"
+
+- name: ReactJS
+  logo: /images/sections/skills/react.svg
+  summary: "Have the basic knowledge of reactJS and currently working on a project based on it."
+  url: "https://reactjs.org/"
+
+- name: Laravel
+  logo: /images/sections/skills/laravel.svg
+  summary: "Have the fundamental knowledge of php laravel framework. Worked with it during the academic DBMS project."
+  url: "https://www.laravel.com/"
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.svg
+  summary: "Have the basic to advance knowledge of MySQL. Worked with it during the DBMS project."
+  url: "https://mysql.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the parallel operating system besides windows. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, used Github."
+  url: "https://git-scm.com/"
