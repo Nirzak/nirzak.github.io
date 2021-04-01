@@ -4,15 +4,6 @@ languageCode: en-us
 title: "Nirjas Jakilim"
 theme: "toha"
 
-server:
-  headers:
-  - for: /*
-    values:
-      X-Content-Type-Options: nosniff
-      Referrer-Policy: strict-origin-when-cross-origin
-      X-Frame-Options: DENY
-      X-XSS-Protection: 1; mode=block
-
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
