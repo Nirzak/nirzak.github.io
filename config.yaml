@@ -76,7 +76,3 @@ params:
     headerBackground: aliceblue
     # Set note card title color.
     headerTextColor: #1c2d41
-  seo:
-    title: "Nirjas Jakilim"
-    name: "Nirjas Jakilim"
-    description: "Nirjas Jakilim's personal portofolio website which includes his academic info and works."
