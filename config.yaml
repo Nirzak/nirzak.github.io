@@ -6,7 +6,7 @@ theme: "toha"
 
 server:
   headers:
-  - for: /**.html
+  - for: index.html
     values:
       Referrer-Policy: strict-origin-when-cross-origin
       X-Content-Type-Options: nosniff
