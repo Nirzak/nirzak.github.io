@@ -8,7 +8,6 @@ server:
   headers:
   - for: /**.html
     values:
-      Content-Security-Policy: connect-src api.github.com; font-src cdnjs.cloudflare.com fonts.googleapis.com; img-src 'self' www.countryflags.io; script-src-elem 'unsafe-inline' cdnjs.cloudflare.com 'self'; style-src-attr 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com
       Referrer-Policy: strict-origin-when-cross-origin
       X-Content-Type-Options: nosniff
       X-Frame-Options: DENY
@@ -54,6 +53,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
+  AuthorName: Nirjas Jakilim
   background: /images/site/background.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
