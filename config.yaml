@@ -4,6 +4,16 @@ languageCode: en-us
 title: "Nirjas Jakilim"
 theme: "toha"
 
+server:
+  headers:
+  - for: /**.html
+    values:
+      Content-Security-Policy: connect-src api.github.com; font-src cdnjs.cloudflare.com fonts.googleapis.com; img-src 'self' www.countryflags.io; script-src-elem 'unsafe-inline' cdnjs.cloudflare.com 'self'; style-src-attr 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com
+      Referrer-Policy: strict-origin-when-cross-origin
+      X-Content-Type-Options: nosniff
+      X-Frame-Options: DENY
+      X-XSS-Protection: 1; mode=block
+
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
