@@ -1,1 +1,3 @@
 # Codes for Personal Portofolio site
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79e10785-8845-4382-9ae3-3b6e7eca7708/deploy-status)](https://app.netlify.com/sites/nirzak/deploys) [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fnirzak%2Fnirzak.github.io%2Fbadge%3Fref%3Dsource&style=flat)](https://actions-badge.atrox.dev/nirzak/nirzak.github.io/goto?ref=source) ![Repository Size](https://img.shields.io/github/repo-size/nirzak/nirzak.github.io) ![Contributor](https://img.shields.io/github/contributors/nirzak/nirzak.github.io) ![Last Commit](https://img.shields.io/github/last-commit/nirzak/nirzak.github.io) ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fnirzak.me)
