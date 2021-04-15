@@ -12,42 +12,42 @@ section:
 # Your accomplishments
 accomplishments:
 - name: Machine Learning
-  timeline: "January 2021 - March 2021"
+  timeline: "জানুয়ারী ২০২১ - মার্চ ২০২১"
   organization:
-    name: Standford University through Coursera
+    name: কোর্সেরার মাধ্যমে স্ট্যানফোর্ড বিশ্ববিদ্যালয়
     url: https://www.coursera.org/learn/machine-learning/
-  courseOverview: "This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  courseOverview: "কোর্সটিতে মেশিন লার্নিং এর বেসিক থেকে এডভান্স পর্যন্ত প্রায় সব বিষয় নিয়ে আলোচনা করা হয়েছে। যদি কেউ মেশিন লার্নিং একদম শুরু থেকে করতে চায়, তবে কোর্সটি তার জন্য সবচেয়ে সবচেয়ে সহায়ক হবে। কোর্সটি সব মিলিয়ে ১১ সপ্তাহের কোর্স এবং এতে পাস করতে গেলে ১১ সপ্তাহের সবগুলো এসাইনমেন্ট আর কুইজ কমপ্লিট করতে হবে।" 
   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/27TZAXCJ9AW6"
 
 - name: Machine Learning Foundations - A Case Study Approach
-  timeline: "August 2020 - Dec 2020"
+  timeline: "আগস্ট ২০২০ - ডিসেম্বর ২০২০"
   organization:
-    name: University of Washington through Coursera
+    name: কোর্সেরার মাধ্যমে ওয়াশিংটন বিশ্ববিদ্যালয়
     url: https://www.coursera.org/learn/ml-foundations
-  courseOverview: "This course provides the basic fundamental knowledge about machine learning approach and different machine learning algorithms."
+  courseOverview: "কোর্সটিতে মেশিন লার্নিং এর মৌলিক বিষয় গুলোকে অনেক সহজ করে উপস্থাপন করা হয়েছে যা নতুনদের জন্য অনেক বেশি সহায়ক হবে এবং এতে Scikit-learn এর মতোই মেশিন লার্নিং ফ্রেমওয়ার্ক  Turi Create নিয়ে আলোচনা করা হয়েছে। কোর্সটির সব মিলিয়ে চারটি ভাগ আছে যার শুধু একটি ভাগ আমি সম্পন্ন করেছিলাম।"
   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/AHJYC5B7P8TH"
 
 - name: Introduction to Git and Github
-  timeline: "Ocotber 2020 - Jan 2021"
+  timeline: "অক্টোবর ২০২০ - জানুয়ারী ২০২১"
   organization:
-    name: Google through Coursera
+    name: কোর্সেরার মাধ্যমে গুগল
     url: https://www.coursera.org/learn/introduction-git-github
-  courseOverview: "This course helps to clear basic concepts of git and how to use it. This course also covers basic to advance commands to maintain version controls for projects."
+  courseOverview: "গুগলের এই কোর্সে গিট এবং গিটহাবের একদম বেসিক থেকে সব খুটিনাটি সহজ করে বোঝানো হয়েছে। গুগলের ল্যাব এবং কিছু কাস্টম টাস্ক সহ কোর্সটি গিট এবং গিটহাব নিয়ে শেখার জন্য সবচেয়ে আদর্শ কোর্স। আমি সম্পূর্ণ কোর্স এবং সব এসাইনমেন্ট সম্পন্ন করেছিলাম এবং কোর্সটি খুব উপভোগ করেছিলাম।"
   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/TGF2QDEWKQZ6"
 
 - name: Introduction to Cybersecurity
-  timeline: "Mar 2020 - May 2020"
+  timeline: "মার্চ ২০২০ - মে ২০২০"
   organization:
-    name: Cisco
+    name: সিসকো
     url: https://www.cisco.com
-  courseOverview: "This course helps to clear the fundamental concepts of cybersecurity. It also gives a detailed view of cybersecurity and vulnerability and the methods to fix them."
+  courseOverview: "সিসকোর এই কোর্সে সাইবার সিকিউরিটির মৌলিক ধারণা গুলোর পাশাপাশি কিছু এডভান্সড বিষয় নিয়েও আলোচনা করা হয়েছে। কোর্সটি আমি আমার একাডেমিক কোর্সের অংশ হিসেবে সম্পন্ন করেছিলাম।"
   certificateURL: "https://www.youracclaim.com/badges/ccd189ae-39ec-4189-9293-c9ae3fba4fb3/"
 
 - name: Introduction to Data Structure and Algorithms
-  timeline: "Jan 2018 - Mar 2018"
+  timeline: "জানুয়ারী ২০১৮ - মার্চ ২০১৮"
   organization:
-    name: Udemy
+    name: ইউডেমি
     url: https://www.udemy.com
-  courseOverview: "This course helps to clear the concepts behind the fundamental data structure and algorithms. It's a beneficial course for beginners to get a headstart in algorithms and data structures."
+  courseOverview: "ইউডেমির এই কোর্সে একদম ফান্ডামেন্টাল ডাটা স্ট্রাকচার আর এলগরিদম গুলো নিয়ে আলোচনা করা হয়েছে। সহজ উপস্থাপনা এবং নতুন ভাবে এলগিরদম গুলোকে বোঝানোর পাশাপাশি কোর্সটির ইন্সট্রাকটর-ও ছিলো অসাধারণ। কম্পিটিটিভ প্রোগ্রামিং-এ এলগিরদমের ধারণা ক্লিয়ার করার জন্য এই কোর্সটি করেছিলাম"
   certificateURL: "https://www.udemy.com/certificate/UC-19KGVL44"
  
