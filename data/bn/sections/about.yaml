@@ -51,22 +51,22 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: নেতৃত্ব
   percentage: 70
   color: blue
-- name: Team Work
+- name: দলগত কাজ
   percentage: 90
   color: yellow
-- name: Communication
+- name: যোগাযোগ
   percentage: 85
   color: pink
-- name: Hard Working
+- name: পরিশ্রমী
   percentage: 85
   color: green
-- name: Fast Learner
+- name: ফাস্ট লার্নার
   percentage: 85
   color: sky
-- name: Problem Solving
+- name: প্রবলেম সল্ভার
   percentage: 85
   color: orange
 # you can also provide color code instead of pre-defined color name
