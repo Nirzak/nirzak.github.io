@@ -72,4 +72,4 @@ projects:
   timeline: "Jun 2020 - Presen"
   repo: "https://github.com/Nirzak/Self-Forwarder-Bot"
   summary: A simple telegram bot to self forward own messages and files to share them anonymously.
-  tags: ["Fun","Hobby","python"]
+  tags: ["fun","hobby","python"]
