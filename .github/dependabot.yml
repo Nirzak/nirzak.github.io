@@ -5,6 +5,17 @@ updates:
   directory: "/"
   schedule:
     interval: "daily"
+  # pull requests
+  reviewers:
+  - "nirzak"
   labels:
   - "dependencies"
-  - "automerge"
+  - "review requested"
+
+# Update the Github Action  versions
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: "daily"
+  labels:
+  - "dependencies"
