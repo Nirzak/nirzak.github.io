@@ -57,19 +57,19 @@ projects:
   timeline: "Sep 2020 - Current"
   repo: "#"
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  summary: সাধারণত থিসিস আর প্রোজেক্টের জন্য বিভিন্ন টিম সিলেক্ট করা এবং সেই টিম গুলোর জন্য উপযুক্ত সুপারভাইজার নিয়োগ করার প্রয়োজন পড়ে। এই সাইটটির কাজ মূলত এই প্রসেস টাকে অটোমেট করা।
   tags: ["Academic", "Web", "React"]
 
 - name: Detecting Headline Inconsistency for Bengali Languages
   role: Research
   timeline: "Jun 2020 - Present"
   repo: "#"
-  summary: A research to detect headline inconsistency between news headlines and body texts.
+  summary: clickbait নিউজ অর্থাৎ নিউজ হেডলাইন আর নিউজ কন্টেন্টের মধ্যে অমিল থাকা কিংবা অপ্রাসঙ্গিক হেডলাইন ব্যবহার করা সয়ঙ্ক্রিয়ভাবে বের করার জন্য এই থিসিস রিসার্চ। সাধারণত এটা নিয়ে অন্যান্য ভাষায় অনেক কাজ হলেও বাংলা ভাষায় তেমন কোনো রিসার্চ হয় নি।
   tags: ["machine learning","thesis","academic","pytorch"]
 
 - name: Self Forwarder Bot
   role: Developer
   timeline: "Jun 2020 - Presen"
   repo: "https://github.com/Nirzak/Self-Forwarder-Bot"
-  summary: A simple telegram bot to self forward own messages and files to share them anonymously.
+  summary: এটা আমার শখের বসে বানানো একটা টেলিগ্রাম বট যা নিজের পাঠানো ফাইল্গুলোই আবারও ফরওয়ার্ড করবে। শুধু তাই নয় এই বট দিয়ে যেকোনো আপলোডেড ফাইলের সেন্ডারকে হিডেন রেখে সেন্ড করা সহ ফাইলের ক্যাপশন রিমুভ করা, ক্যাপশন এড করা এসব কাজও করা যাবে।
   tags: ["fun","hobby","python"]
