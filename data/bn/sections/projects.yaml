@@ -23,53 +23,53 @@ buttons:
 # your projects
 projects:
 - name: EncryptDecrypt
-  role: Developer
-  timeline: "March 2017 - July 2017"
+  role: ডেভেলপার
+  timeline: "মার্চ ২০১৭ - জুলাই ২০১৭"
   repo: https://github.com/Nirzak/EncryptDecrypt # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: সফটওয়্যারটি মূলত আমার জাভা ল্যাব কোর্সের প্রোজেক্ট হিসেবে বানানো। এটি যেকোনো ফাইলকে নির্দিষ্ট কিছু এলগরিদমের মাধ্যমে encrypt অথবা Decrypt করতে পারে। 
   tags: ["academic", "javaswing", "encryption"]
 
 - name: Crime Reporting App
-  role: Developer
-  timeline: "Jun 2019 - Dec 2019"
+  role: ডেভেলপার
+  timeline: "জুন ২০১৯ - ডিসেম্বর ২০১৯"
   repo: https://github.com/Nirzak/Crime-Reporting-App
   #url: ""
   summary: এই এন্ড্রয়েড এপ দিয়ে কোনো এলাকার আশপাশে ঘটে যাওয়া যেকোনো ক্রাইম লোকেশনসহ পোস্ট করা যাবে। তাছাড়া পোস্ট করা ক্রাইম গুলোকে সিমুলেট করে একটি নির্দিষ্ট এলাকাকে অপরাধপ্রবণ বলে চিহ্নিত করা যাবে। তাছাড়া এপটি তে আরোও নানা ধরণের ফিচার দেয়া হয়েছে। এপটি software engineering কোর্সের একাডেমিক প্রোজেক্ট হিসেবে বানানো।
   tags: ["academic", "android", "java"]
 
 - name: PhishDetector
-  role: Team Lead and Developer
-  timeline: "Aug 2019 - Mar 2020"
+  role: টীম লিড এবং ডেভেলপার
+  timeline: "আগস্ট ২০১৯ - মার্চ ২০২০"
   repo: "https://github.com/Nirzak/PhishDetector"
   summary: এটি একটি ক্রোম এক্সটেনশন যা যেকোনো নতুন ফিসিং সাইট কে মেশিন লার্নিং প্রযুক্তির মাধ্যমে ফিশিং হিসেবে চিহ্নিত করতে পারে। এপটির backend-এ কাজ করা মডেলকে আরোও উন্নত করার জন্য আমি বর্তমানে কাজ করছি।
   tags: ["academic","machine learning", "extension"]
 
 - name: ProjectCatalogger
-  role: Team Lead and Developer
-  timeline: "Aug 2018 - Dec 2018"
+  role: টীম লিড এবং ডেভেলপার
+  timeline: "আগস্ট ২০১৮ - ডিসেম্বর ২০১৮"
   repo: "https://github.com/Nirzak/Project-Catalogger"
   summary: ভার্সিটির কোনো অনুষদের ঘটে যাওয়া প্রোজেক্টগুলো এক জায়গায় সংগ্রহ করে রাখার জন্য এই সাইটটি বানানো। সাইটটি মূলত Database Management কোর্সের জন্য প্রোজেক্ট হিসেবে বানানো হয়েছিল।
   tags: ["academic","laravel", "php", "mysql"]
 
 - name: Thesis-Project Assigning System
-  role: Developer
-  timeline: "Sep 2020 - Current"
+  role: ডেভেলপার
+  timeline: "সেপ্টেম্বর ২০২০ - বর্তমান"
   repo: "#"
   #url: ""
   summary: সাধারণত থিসিস আর প্রোজেক্টের জন্য বিভিন্ন টিম সিলেক্ট করা এবং সেই টিম গুলোর জন্য উপযুক্ত সুপারভাইজার নিয়োগ করার প্রয়োজন পড়ে। এই সাইটটির কাজ মূলত এই প্রসেস টাকে অটোমেট করা।
   tags: ["Academic", "Web", "React"]
 
 - name: Detecting Headline Inconsistency for Bengali Languages
-  role: Research
-  timeline: "Jun 2020 - Present"
+  role: রিসার্চ
+  timeline: "জুন ২০২০ - বর্তমান"
   repo: "#"
   summary: clickbait নিউজ অর্থাৎ নিউজ হেডলাইন আর নিউজ কন্টেন্টের মধ্যে অমিল থাকা কিংবা অপ্রাসঙ্গিক হেডলাইন ব্যবহার করা সয়ঙ্ক্রিয়ভাবে বের করার জন্য এই থিসিস রিসার্চ। সাধারণত এটা নিয়ে অন্যান্য ভাষায় অনেক কাজ হলেও বাংলা ভাষায় তেমন কোনো রিসার্চ হয় নি।
   tags: ["machine learning","thesis","academic","pytorch"]
 
 - name: Self Forwarder Bot
-  role: Developer
-  timeline: "Jun 2020 - Presen"
+  role: ডেভেলপার
+  timeline: "জুন ২০২০ - জুলাই ২০২০"
   repo: "https://github.com/Nirzak/Self-Forwarder-Bot"
   summary: এটা আমার শখের বসে বানানো একটা টেলিগ্রাম বট যা নিজের পাঠানো ফাইল্গুলোই আবারও ফরওয়ার্ড করবে। শুধু তাই নয় এই বট দিয়ে যেকোনো আপলোডেড ফাইলের সেন্ডারকে হিডেন রেখে সেন্ড করা সহ ফাইলের ক্যাপশন রিমুভ করা, ক্যাপশন এড করা এসব কাজও করা যাবে।
   tags: ["fun","hobby","python"]
