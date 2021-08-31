@@ -184,12 +184,13 @@ English
 </div>
 <div class="col-md-4 col-sm-12">
 <p>Stay up to date with email notification</p>
-<form>
+<form method=post action=https://blogtrottr.com>
 <div class=form-group>
-<input type=email class=form-control id=exampleInputEmail1 aria-describedby=emailHelp placeholder="Enter email">
+<input type=email class=form-control name=btr_email placeholder="Enter email"><br>
+<input type=hidden name=btr_url value=https://nirzash.meindex.xml>
+<input type=hidden name=schedule_type value=1>
 <small id=emailHelp class="form-text text-muted">By entering your email address, you agree to receive the newsletter of this website.</small>
-</div>
-<button type=submit class="btn btn-info">Submit</button>
+<button type=submit class="btn btn-info"> Submit </button>
 </form>
 </div>
 </div>
