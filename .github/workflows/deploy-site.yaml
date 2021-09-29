@@ -32,8 +32,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3.8.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        username: nirzak
-        show_title: True
-        commit_message: Deployed to Github Pages
+        user: Nirzak
+        committer_message: Deployed to Github Pages
         publish_branch: main # if your main branch is `master` use that here.
         publish_dir: ./public
