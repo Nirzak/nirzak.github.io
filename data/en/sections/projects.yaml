@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 - name: EncryptDecrypt
-  role: Developer
+  role: Team Lead and Developer
   timeline: "March 2017 - July 2017"
   repo: https://github.com/Nirzak/EncryptDecrypt # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -36,13 +36,21 @@ projects:
   #url: ""
   summary: An andrid app to report nearby crimes and also provides nearby crimes hotspots and alerts. The was developed as an academic project to accomplish the Software Engineering Lab course.
   tags: ["academic", "android", "java"]
-
-- name: PhishDetector
+  
+- name: p2p Chat Master
   role: Team Lead and Developer
-  timeline: "Aug 2019 - Mar 2020"
-  repo: "https://github.com/Nirzak/PhishDetector"
-  summary: A chrome extension powered by machine learning trained model to detect phishing sites.
-  tags: ["academic","machine learning", "extension"]
+  timeline: "Feb 2019 - Dec 2019"
+  repo: https://github.com/Nirzak/P2P-Chat-Master
+  #url: ""
+  summary: An andrid app to report nearby crimes and also provides nearby crimes hotspots and alerts. The was developed as an academic project to accomplish the Software Engineering Lab course.
+  tags: ["academic", "android", "java", "socket-programming"]
+
+- name: Determining the Most Effective Machine Learning Techniques for Detecting Phishing Websites
+  role: Research
+  timeline: "January 2021 -  October 2021"
+  repo: "https://github.com/Nirzak/PhishDetector-Model-Evaluation"
+  summary: A self assessed research to find out the best machine learning algorithm to detect phishing websites efficiently. The primary motive of this research is to choose the best model for PhishDetector Chrome Extension.
+  tags: ["hobby","machine-learning", "phishing"]
 
 - name: ProjectCatalogger
   role: Team Lead and Developer
@@ -52,19 +60,26 @@ projects:
   tags: ["academic","laravel", "php", "mysql"]
 
 - name: Thesis-Project Assigning System
-  role: Developer
-  timeline: "Sep 2020 - Current"
-  repo: "#"
+  role: Team Lead and Developer
+  timeline: "Sep 2020 - July 2021"
+  repo: "https://github.com/Nirzak/Thesis-Project-Assigning-System"
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["Academic", "Web", "React"]
+  summary: An academic web project to automate the process of the thesis/project selection to maintaining them.
+  tags: ["Academic", "Web", "ExpressJS", "MongoDB", "reactJS"]
 
 - name: Detecting Headline Inconsistency for Bengali Languages
   role: Research
-  timeline: "Jun 2020 - Present"
+  timeline: "Jun 2020 - March 2021"
   repo: "#"
   summary: A research to detect headline inconsistency between news headlines and body texts.
-  tags: ["machine learning","thesis","academic","pytorch"]
+  tags: ["machine-learning","thesis","academic","pytorch"]
+  
+- name: Bengali Fake News Detection Using Machine Learning Techniques
+  role: Research
+  timeline: "Jun 2020 - August 2021"
+  repo: "#"
+  summary: A research to find out the opitmal machine learning models which works best to detect bengali fake news.
+  tags: ["machine-learning","thesis","academic","pytorch", "fake-news"]
 
 - name: Self Forwarder Bot
   role: Developer
