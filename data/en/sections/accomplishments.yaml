@@ -26,6 +26,14 @@ accomplishments:
     url: https://www.coursera.org/learn/ml-foundations
   courseOverview: "This course provides the basic fundamental knowledge about machine learning approach and different machine learning algorithms."
   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/AHJYC5B7P8TH"
+  
+- name: Software Testing Masterclass
+  timeline: "July 2021 - Sep 2021"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/
+  courseOverview: "This course provides the basic to intermediate knowledge of software testing. It also shows some real application of testing with some valuable guidelines."
+  certificateURL: "https://www.udemy.com/certificate/UC-853b7a86-7ced-4b1e-8326-6568d48edb9e/"
 
 - name: Introduction to Git and Github
   timeline: "Ocotber 2020 - Jan 2021"
@@ -50,5 +58,6 @@ accomplishments:
     url: https://www.udemy.com
   courseOverview: "This course helps to clear the concepts behind the fundamental data structure and algorithms. It's a beneficial course for beginners to get a headstart in algorithms and data structures."
   certificateURL: "https://www.udemy.com/certificate/UC-19KGVL44"
+ 
  
 
