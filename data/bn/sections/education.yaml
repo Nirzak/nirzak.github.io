@@ -16,10 +16,10 @@ degrees:
   institution:
     name: শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়
     url: "https://www.sust.edu"
-  grade:
-    scale: সিজিপিএ
-    achieved: ৪
-    outOf: ৩.২৩
+  #grade:
+  #  scale: সিজিপিএ
+  #  achieved: ৪
+  #  outOf: ৩.২৩
   takenCourses:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
