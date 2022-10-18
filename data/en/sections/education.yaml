@@ -16,10 +16,10 @@ degrees:
   institution:
     name: Shahjalal University of Science and Technology
     url: "https://www.sust.edu"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.23
-    outOf: 4
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.23
+  #  outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
