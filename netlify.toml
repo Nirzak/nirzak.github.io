@@ -36,32 +36,3 @@ command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --mini
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    X-Content-Type-Options = "nosniff"
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com fonts.gstatic.com nirzak.github.io nirzash.me api.github.com www.google-analytics.com data:"
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    Strict-Transport-Security = "max-age=2592000"
-    Permissions-Policy = '''
-            accelerometer=(none),
-            ambient-light-sensor=(none),
-            autoplay=(none),
-            camera=(none),
-            encrypted-media=(none),
-            fullscreen=(none),
-            geolocation=(none),
-            gyroscope=(none),
-            magnetometer=(none),
-            microphone=(none),
-            midi=(none),
-            payment=(none),
-            picture-in-picture=(none),
-            speaker=(none),
-            usb=(none),
-            vibrate=(none),
-            vr=(none)
-        '''
