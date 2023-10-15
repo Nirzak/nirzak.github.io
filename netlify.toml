@@ -19,7 +19,7 @@ command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --mini
     NPM_VERSION  = "8.19.2"
 
 [context.deploy-preview]
-command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify"
 
     [context.deploy-preview.environment]
     HUGO_VERSION = "0.109.0"
@@ -27,7 +27,7 @@ command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --mini
     NPM_VERSION  = "8.19.2"
 
 [context.branch-deploy]
-command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify"
 
     [context.branch-deploy.environment]
     HUGO_VERSION = "0.109.0"
