@@ -17,7 +17,7 @@ experiences:
     # company overview
     overview: Therap (BD) Ltd. is an affiliate of Therap Services LLC which is a US based Software Company. They have been operating since 2003 and have offices in Dhaka, Bangladesh as well as in the USA and Canada.
   positions:
-  - designation: Associate System Administrator
+  - designation: System Administrator - DevOps
     start: Dec 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
