@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Programmer | Web Developer | Problem Solver
+designation: Programmer | DevOps | System Administrator
 # your company information
 #company:
   #name: Example Co.
@@ -18,7 +18,7 @@ designation: Programmer | Web Developer | Problem Solver
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate programmer comes, a web developer. I always like to do new things. Usually, I like to work with web frameworks a lot. In my leisure time, I like to listen to music, do programming, or watch movies.'
+summary: 'A programming enthusiast who always likes to work with the latest technologies. I am a professional DevOps and System Administrator and also an open-source enthusiast. Being skillful in Linux and automation techniques and scripts, I always strive to make every complicated and repeated operation smooth and automated to make them time efficient and effortless.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
