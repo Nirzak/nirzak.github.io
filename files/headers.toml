@@ -1,0 +1,8 @@
+# custom header fields
+["*"]
+    x-frame-options = "DENY"
+    x-xss-protection = "1; mode=block"
+    x-content-type-options = "nosniff"
+    content-security-policy = "default-src 'self' cdnjs.cloudflare.com fonts.googleapis.com fonts.gstatic.com *.github.io *.nirzak.tech api.github.com www.google-analytics.com data:"
+    referrer-policy = "strict-origin-when-cross-origin"
+    strict-transport-security = "max-age=31536000; includeSubDomains"
