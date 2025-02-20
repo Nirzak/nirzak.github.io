@@ -43,11 +43,10 @@ HUGO_ENABLEGITINFO = "true"
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
-    Content-Security-Policy = "default-src 'self' *.github.io *.nirzak.win; script-src 'self' 'unsafe-inline' cdnjs.cloudflare.com www.google-analytics.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com; font-src 'self' fonts.gstatic.com;img-src 'self' data:;connect-src 'self' api.github.com;frame-src *.github.io *.nirzak.win;"
+    Content-Security-Policy = "default-src 'self' *.github.io *.nirzak.win; script-src 'self' 'unsafe-inline' cdnjs.cloudflare.com www.google-analytics.com *.github.io *.nirzak.win; style-src 'self' 'unsafe-inline' fonts.googleapis.com *.github.io *.nirzak.win; font-src 'self' fonts.gstatic.com;img-src 'self' data:;connect-src 'self' api.github.com;frame-src *.github.io *.nirzak.win;"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
     Permissions-Policy = '''
             accelerometer=(),
-            ambient-light-sensor=(),
             autoplay=(),
             camera=(),
             encrypted-media=(),
@@ -58,8 +57,5 @@ HUGO_ENABLEGITINFO = "true"
             microphone=(),
             payment=(*),
             picture-in-picture=(*),
-            speaker=(),
             usb=(),
-            vibrate=(),
-            vr=()
         '''
