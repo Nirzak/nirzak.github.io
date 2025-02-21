@@ -45,6 +45,6 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
-          base: main
+          base: source
           title: Update theme
           labels: automerge
