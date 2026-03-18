@@ -1,4 +1,4 @@
-name: Deploy to Github Pages
+name: Merge to main workflows
 
 # run when a commit is pushed to "source" branch
 on:
@@ -11,9 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # checkout to the commit that has been pushed
-    - uses: actions/checkout@v4
-    
-    # install Hugo
+    - uses: actions/checkout@v6
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3.0.0
       with:
@@ -24,7 +23,7 @@ jobs:
       run: hugo mod tidy
 
     - name: Setup Node
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v6
       with:
         node-version: 18
 
@@ -33,16 +32,13 @@ jobs:
         hugo mod npm pack
         npm install
 
-    # build website
     - name: Build
       run: hugo --minify
 
-    # push the generated content into the `main` (former `master`) branch.
+    # push the generated content into the `main` branch.
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4.0.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        user: Nirzak
-        committer_message: Deployed to Github Pages
-        publish_branch: main # if your main branch is `master` use that here.
+        publish_branch: main
         publish_dir: ./public
