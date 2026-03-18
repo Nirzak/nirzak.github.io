@@ -7,7 +7,7 @@ on:
     - source
 
 jobs:
-  deploy-to-gh-pages:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     # checkout to the commit that has been pushed
@@ -35,10 +35,10 @@ jobs:
     - name: Build
       run: hugo --minify
 
-    # push the generated content into the `gh-pages` branch.
+    # push the generated content into the `main` branch.
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4.0.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: gh-pages
+        publish_branch: main
         publish_dir: ./public
